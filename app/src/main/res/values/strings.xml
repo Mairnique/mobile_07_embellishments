@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobile_07_embellishments</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="favorites_fragment">Favorites Fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+</resources>
